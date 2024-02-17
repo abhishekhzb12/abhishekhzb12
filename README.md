@@ -1,9 +1,9 @@
  
-![logo](https://github.com/abhishekhzb12/abhishekhzb12/blob/main/banner.png)
+![logo](https://github.com/abhishekhzb12/abhishekhzb12/blob/main/MERNBanner.png)
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <p align='center'> <img src="https://readme-typing-svg.demolab.com?weight=800&size=25&pause=1000&color=14F765&background=FFFFFF00&center=true&width=435&lines=A+Full+Stack+Web+Developer💻;A+Problem+Solver"/></p>
 <img src="https://komarev.com/ghpvc/?username=abhishekhzb12&style=flat-square&color=blue" alt=""/>
-<h4 align="center">I’m a full-stack web developer and creative coder who specializes in MERN stack development. A passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems.
+<h4 align="justify">Dynamic full-stack web developer proficient in MERN stack, with hands-on experience in building both solo and collaborative projects. Strong problem-solving skills and a passion for learning new technologies. Excels in teamwork, communication, and delivering high-quality solutions.
 </h4>
 </div>
 </div>
@@ -21,7 +21,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/abhishekhzb12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekhzb12" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/abhishekkumarhzb12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekhzb12" height="30" width="40" /></a>
 <a href="https://codesandbox.com/abhishekhzb12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="abhishekhzb12" height="30" width="40" /></a>
 </p>
 
