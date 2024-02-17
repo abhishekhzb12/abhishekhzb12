@@ -7,7 +7,7 @@
 </h4>
 </div>
 </div>
-<img align ="right" alt="coding" width = "300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align ="right" alt="coding" width = "300" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 - 🌱 I’m currently learning **Data Structures and MERN Stack.**
 
@@ -15,13 +15,13 @@
 
 - 💬 Ask me about **anything, I am happy to help;**
 
-- 📫 How to reach me **abhishek.kumarhzb9@gmail.com.com**
+- 📫 How to reach me **abhishek.kumarhzb9@gmail.com**
 
-- 📄 Know about my experiences  <a href="https://drive.google.com/file/d/1SfK1K1hyTbCK4CDuBtf1T1jxg" target="_blank">Resume</a>
+- 📄 Know about my experiences  <a href="https://drive.google.com/file/d/1qFfWPH2GaYqw0xfVYFzXK7BQBpGro0IN/view?usp=sharing" target="_blank">Resume</a>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="www.linkedin.com/in/abhishekkumarhzb12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekhzb12" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abhishekhzb12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekhzb12" height="30" width="40" /></a>
 <a href="https://codesandbox.com/abhishekhzb12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="abhishekhzb12" height="30" width="40" /></a>
 </p>
 
